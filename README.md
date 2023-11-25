@@ -26,7 +26,7 @@
 </p>
 
  </p>
-<span>
+<span style="display:flex; justify-content: space-between;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaa-belhassen&show_icons=true&locale=en&layout=compact" alt="ajayaadhav10" /></p>
 <p>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaa-belhassen&show_icons=true&locale=en" alt="ajayaadhav10" /></p>
